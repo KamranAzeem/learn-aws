@@ -11,6 +11,7 @@
 * Setup strong password policy for all future users under the root account.
 * Setup a group with some admin rights
 * Setup a normal user and make it a member of that group
+* Setup good password for this new user, enable MFA, and setup Access Keys, etc.
 * Use this new user for all general work you do on AWS
 * Use your Root account only for super admin tasks like billing, and creating more groups and users, etc.
 
