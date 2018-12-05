@@ -32,6 +32,7 @@ Reference documents:
 
 
 ## VPC look and feel
+These are free-hand drawings - not very polished. This will be improved later.
 
 ![vpc-1.png](vpc-1.png)
 ![vpc-2.png](vpc-2.png)
