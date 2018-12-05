@@ -39,3 +39,22 @@ These are free-hand drawings - not very polished. This will be improved later.
 ![vpc-3.png](vpc-3.png)
 ![vpc-4.png](vpc-4.png)
 
+
+## Hands on
+
+* Create VPC , public and private subnets
+* Create EC2 instances in both subnets
+* Create a new SSH key for instance while creating the first EC2 instance
+* Access the ec2 instances over SSH
+
+```
+ssh-add -l
+ssh-add -k key-name
+
+ssh -A -i key-name ec2-user@public-instance
+
+ssh ec2-user@private-instance
+```
+
+![ssh-jump-box.png](ssh-jump-box.png)
+
