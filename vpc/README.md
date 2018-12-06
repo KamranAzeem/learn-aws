@@ -25,6 +25,7 @@ Reference documents:
 * Use some online tool to figure out how to slice your vpc network into subnets (http://cidr.xyz, https://www.calculator.net/ip-subnet-calculator.html)
 * One VPC can have only one internet gateway (igw)
 * For instances in private subnet, NAT gateway or NAT (ec2) instances can be used to connect to the internet
+* NAT gateway is an AWS software appliance, which needs to be connected to a public subnet in your VPC
 * Instances on private subnet can be accessed using a jump-box , or a bastion host
 * There can be max 5 vpcs in one aws account
 * IGW are provided by AWS and are always in HA mode, spanning multiple AZ
