@@ -12,6 +12,7 @@
   * Subnet addresses?
 
 ## Helpful files:
+* [The online/Google spreadsheet used in the CBT](https://docs.google.com/spreadsheets/d/15EKKwzCn5uEutmqAf4rFJT0lrrbNxCzd8HHM_YSuczc/edit?usp=sharing)
 * [Network-Subnetting_Binary-Method.xlsx](Network-Subnetting_Binary-Method.xlsx)
 * [Network-Subnetting_Binary-Method.ods](Network-Subnetting_Binary-Method.ods)
 * Free-hand sheet [subnetting.xoj](subnetting.xoj) (Use Xournal on Linux to open this file)
