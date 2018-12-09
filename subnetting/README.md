@@ -18,6 +18,7 @@
 * Free-hand sheet [subnetting.xoj](subnetting.xoj) (Use Xournal on Linux to open this file)
 
 ## Helpful online resources:
+* [https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
 * [https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained](https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained)
 * [https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers](https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers)
 * [https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets](https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets)
