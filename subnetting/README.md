@@ -59,6 +59,8 @@
 * [https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
 * [https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained](https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained)
 * [https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers](https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers)
+* [http://www.ciscopress.com/articles/article.asp?p=174107&seqNum=3](http://www.ciscopress.com/articles/article.asp?p=174107&seqNum=3)
+* [https://www.eventhelix.com/RealtimeMantra/Networking/ip_routing.htm#.XBArl3VKjHQ](https://www.eventhelix.com/RealtimeMantra/Networking/ip_routing.htm#.XBArl3VKjHQ)
 * [https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets](https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets)
 * [https://www.uhcl.edu/computing/information-security/tips-best-practices/routers](https://www.uhcl.edu/computing/information-security/tips-best-practices/routers)
 * [https://www.uhcl.edu/computing/information-security/tips-best-practices/ipaddressing](https://www.uhcl.edu/computing/information-security/tips-best-practices/ipaddressing)
