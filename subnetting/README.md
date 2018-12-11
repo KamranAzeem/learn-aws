@@ -32,13 +32,17 @@
 * Free-hand sheet [subnetting.xoj](subnetting.xoj) (Use Xournal on Linux to open this file)
 
 ## Helpful online resources:
-* My video in Urdu language about the same topic: 
-  * [Detailed lecture on subnetting, in Urdu/Hindi language](https://youtu.be/55wz4GZTpIU)
-  * [Subnet sizing, in Urdu/Hindi language](https://youtu.be/xHoxzcBeUlk)
+* My videos/lectures in Urdu language, about these topics:
+  * [https://www.youtube.com/watch?v=pH--Mgwttcc](https://www.youtube.com/watch?v=pH--Mgwttcc)
+  * [https://www.youtube.com/watch?v=nBvHNAw341c](https://www.youtube.com/watch?v=nBvHNAw341c)
+  * [https://www.youtube.com/watch?v=TEwrbjQABDc](https://www.youtube.com/watch?v=TEwrbjQABDc)
+  * [https://www.youtube.com/watch?v=m09NycTZPiY](https://www.youtube.com/watch?v=m09NycTZPiY)
 * [https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
 * [https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained](https://learningnetwork.cisco.com/blogs/vip-perspectives/2014/05/15/network-binary-math-explained)
 * [https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers](https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers)
 * [https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets](https://www.pluralsight.com/blog/it-ops/simplify-routing-how-to-organize-your-network-into-smaller-subnets)
+* [https://www.uhcl.edu/computing/information-security/tips-best-practices/routers](https://www.uhcl.edu/computing/information-security/tips-best-practices/routers)
+* [https://www.uhcl.edu/computing/information-security/tips-best-practices/ipaddressing](https://www.uhcl.edu/computing/information-security/tips-best-practices/ipaddressing)
 
 
 ## Subnet calculators:
