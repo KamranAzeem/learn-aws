@@ -6,6 +6,11 @@
   * Help the computer figure out if two IPs belong to the same network, or different network; and what to do in either case
   * Helps in calculating network and broadcast addresses of a given IP address
   * Based on network and broadcast address, we can calculate total number of IPs, total number of subnets and subnet addresses corresponding to a given IP address
+
+![network-and-broadcast-address-binary](network-and-broadcast-address-binary.png)
+![example-routing](example-routing.png)
+![compare-two-ips](compare-two-ips.png)
+
 * What is CIDR?, and, why subnet a network?
   * The default *classful* networks are sometimes too large or too small for a network setup. CIDR helps slow the rapid exhaustion of IPv4 addresses.
   * Subnets allow efficient use of IP addresses provided by network administrator or upstream vendor
