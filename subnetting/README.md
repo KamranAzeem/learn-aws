@@ -2,7 +2,21 @@
 
 
 ## Topics:
-* What is a subnet mask for?
+* What is the purpose of a network mask?
+  * Help the computer figure out if two IPs belong to the same network, or different network; and what to do in either case
+  * Helps in calculating network and broadcast addresses of a given IP address
+  * Based on network and broadcast address, we can calculate total number of IPs, total number of subnets and subnet addresses corresponding to a given IP address
+* What is CIDR?, and, why subnet a network?
+  * The default *classful* networks are sometimes too large or too small for a network setup. CIDR helps slow the rapid exhaustion of IPv4 addresses.
+  * Subnets allow efficient use of IP addresses provided by network administrator or upstream vendor
+  * On the larger scale, it means, that it slows down the growth of routing tables on routers across the Internet
+  * Subnets reduces the size of collision domain - used to be true for "hubs"
+  * Subnets reduces the size of broadcast domain
+  * Subnets isolates certain type of traffic from certain other type of network traffic by breaking the network down in smaller sections
+  * A routing device is required to let traffic-flow between various subnets and other networks
+* What is subnet sizing?
+  * How many sub networks are possible in a *subnetted* network?
+  * How many hosts are possible in each network?
 * Given an IP address and a subnet mask, what is the corresponding: 
   * Network Address? 
   * Broadcast Address? 
