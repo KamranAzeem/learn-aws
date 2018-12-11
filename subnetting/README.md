@@ -7,7 +7,12 @@
   * Helps in calculating network and broadcast addresses of a given IP address
   * Based on network and broadcast address, we can calculate total number of IPs, total number of subnets and subnet addresses corresponding to a given IP address
 
-![network-and-broadcast-address-binary](network-and-broadcast-address-binary.png)
+
+| ![](network-and-broadcast-address-binary.png) |
+:-------------------------:
+| Binary calculation of Network and Broadcast addresses |
+
+
 ![example-routing](example-routing.png)
 ![compare-two-ips](compare-two-ips.png)
 
